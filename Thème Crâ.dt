@@ -1,10 +1,14 @@
-<theme>
-    <name>ThËme Cr‚</name>
-    <description>ThËme Cr‚ (Vert/Jaune)</description>
-    <previewUri>preview.jpg</previewUri>
-    <author>Nrgy</author>
-    <version>1.0.0</version>
-    <dofusVersion>2.37</dofusVersion>
-    <creationDate>30/10/2016</creationDate>
-    <modificationDate>30/10/2016</modificationDate>
-</theme>
+[
+  { 
+    "author" : "Nrgy", 
+    "name" : "Th√®me Cr√¢", 
+    "keyWords" : "parma,parme", 
+    "version" : "1.0.0", 
+    "dofusVersion" : "2.37", 
+    "description" : "Th√®me Cr√¢ dans le ton vert !", 
+    "url" : "https://github.com/Nrgy-Silouate/themecra/raw/master/Th%C3%A8me%20Cr%C3%A2.zip", 
+    "previewUrl" : "https://raw.githubusercontent.com/Angom8/gomstheme/master/parmastone.PNG", 
+    "creationDate" : "30/10/2016", 
+    "modificationDate" : "30/10/2016"  
+  },
+]
